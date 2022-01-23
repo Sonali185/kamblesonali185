@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sonali185
 - 👀 I’m interested in Programming Languages
-- 🌱 I’m currently learning Html,CSS,Java,MYSQL.
+- 🌱 I’m Work in Html,CSS,Java,MYSQL.
 - 📫  you can mail me at kamblesonali185@gmail.com
 
 <!---
